@@ -33,6 +33,22 @@ I'm a passionate senior web developer with expertise in various technologies. He
   - ![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Dismas Ndadila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DismasNdadila&show_icons=true&theme=radical)
+
+## 📈 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DismasNdadila&theme=dark)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DismasNdadila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🐍 Snake Game
+
+![Snake animation](https://github.com/DismasNdadila/DismasNdadila/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Connect with Me
 
 - GitHub: [@DismasNdadila](https://github.com/DismasNdadila)
@@ -54,3 +70,4 @@ Check out my portfolio [here](https://your-portfolio-link.com) to see some of my
 - Skilled in managing and deploying Linux servers with Docker containers.
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's code and create amazing things together! 🚀
+
