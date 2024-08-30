@@ -45,11 +45,7 @@ I'm a passionate senior web developer with expertise in various technologies. He
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DismasNdadila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌀 3D Animated Card
 
-<div align="center">
-  <img src="https://github-readme-3d-cards.vercel.app/api?username=DismasNdadila&theme=default&height=150" alt="3D Animated Card"/>
-</div>
 
 ## 📫 Connect with Me
 
