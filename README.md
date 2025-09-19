@@ -37,8 +37,6 @@ I'm a passionate senior web developer with expertise in various technologies. He
 ## 📈 Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DismasNdadila&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⏱️ WakaTime Coding Stats
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DismasNdadila&api_key=waka_b317716f-180c-4fbb-b16f-443129ce817a&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DismasNdadila&theme=dark)](https://git.io/streak-stats)
@@ -46,25 +44,7 @@ I'm a passionate senior web developer with expertise in various technologies. He
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DismasNdadila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 Language Distribution
 ```
-PHP        ███████████████████░░░░░   65.5%
-JavaScript ██████░░░░░░░░░░░░░░░░░░   15.2%
-C++        ████░░░░░░░░░░░░░░░░░░░░   8.3%
-HTML/CSS   ███░░░░░░░░░░░░░░░░░░░░░   6.8%
-Rust       ██░░░░░░░░░░░░░░░░░░░░░░   2.7%
-Other      ░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
-```
-
-## 🚀 Skills and Achievements
-- **Web Development**: Proven experience in developing scalable web applications using PHP, Laravel, and JavaScript
-- **Systems Programming**: Proficient in C++ and Rust for high-performance applications
-- **GUI Development**: Experience with Qt framework for cross-platform desktop applications
-- **Database Management**: Strong expertise in MySQL database design and optimization
-- **Server Administration**: Experience in configuring and managing Apache and Nginx servers
-- **DevOps**: Skilled in managing and deploying Linux servers with Docker containers
-- **Version Control**: Proficient with Git for collaborative development
-- **Package Management**: Expert in dependency management using Composer and Cargo
 
 ## 🌱 Current Focus
 - 🦀 Exploring advanced Rust programming for system-level development
