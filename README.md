@@ -38,7 +38,7 @@ I'm a passionate senior web developer with expertise in various technologies. He
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DismasNdadila&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⏱️ WakaTime Coding Stats
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DismasNdadila&api_key=waka_b666feb2-c79e-46eb-818b-952c53dfd6d8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DismasNdadila&api_key=waka_b317716f-180c-4fbb-b16f-443129ce817a&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DismasNdadila&theme=dark)](https://git.io/streak-stats)
