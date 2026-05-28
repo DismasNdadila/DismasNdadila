@@ -1,6 +1,8 @@
 # Dismas Ndadila
 **Senior Software Engineer | Full-Stack Architect | Systems Programmer**
 
+[![committers.top badge](https://user-badge.committers.top/tanzania_public/USERNAME.svg)](https://user-badge.committers.top/tanzania_public/USERNAME)
+
 > Building scalable, high-performance systems that power millions of users. Passionate about clean code, system architecture, and emerging technologies.
 
 ## 🎯 Professional Summary
